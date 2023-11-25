@@ -19,6 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa-khatab&show_icons=true&locale=en&layout=compact" alt="mostafa-khatab" /></p>
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa-khatab&show_icons=true&locale=en" alt="mostafa-khatab" /></p>
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa-khatab&" alt="mostafa-khatab" /></p>
