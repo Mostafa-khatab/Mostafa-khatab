@@ -44,6 +44,7 @@
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
   </p>
 </details>
@@ -124,5 +125,5 @@
   </p>
 </details>
 
-![GitHub Snake dark](https://github.com/Mostafa-khatab/snk/blob/main/dist/github-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake light](https://github.com/Mostafa-khatab/snk/blob/main/dist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/ibrahim11elian/snk/blob/main/dist/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake light](https://github.com/ibrahim11elian/snk/blob/main/dist/github-snake.svg#gh-light-mode-only)
