@@ -125,5 +125,3 @@
   </p>
 </details>
 
-![GitHub Snake dark](https://github.com/ibrahim11elian/snk/blob/main/dist/github-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake light](https://github.com/ibrahim11elian/snk/blob/main/dist/github-snake.svg#gh-light-mode-only)
