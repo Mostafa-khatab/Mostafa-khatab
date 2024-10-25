@@ -2,15 +2,7 @@
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ibrahim11elian&style=for-the-badge&color=011627" alt="Profile Views" style="height:21px;">
  Software Engineer
-  <a href="https://ibrahim-ahmed.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:21px;">
-  </a>
-</h2>
 
-<div align="center">
-  <!-- <img src="assets/coding.gif" width="40%"> -->
-  <a href="https://app.daily.dev/ibrahim11ahmed"><img src="https://api.daily.dev/devcards/ce4a567f61944a2a8effdf2846c47a0b.png?r=lyz" width="400" alt="Ibrahim Ahmed Abdelnaby's Dev Card"/></a>
-</div>
 
 </br>
 </br>
