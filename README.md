@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm I'm Mostafa Khattab</h1>
+<h1 align="center">Hi there 👋, I'm Mostafa Khattab</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=Mostafa-khatab&style=for-the-badge&color=011627" alt="Profile Views" style="height:21px;">
  Software Engineer
