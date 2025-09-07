@@ -45,6 +45,7 @@
 ### 🗄 Databases  
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🛠 Tools & DevOps  
 ![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git&logoColor=white)
