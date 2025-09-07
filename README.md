@@ -13,13 +13,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mostafa-khatab&theme=nightowl&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-khatab&theme=nightowl&hide_border=true&layout=compact)  
-
----
-
 ## 🛠️ Tech Stack  
 
 ### 🔤 Programming Languages  
@@ -74,6 +67,13 @@
 ![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)
 ![GeeksForGeeks](https://img.shields.io/badge/-GeeksforGeeks-35914c?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 ![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mostafa-khatab&theme=nightowl&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-khatab&theme=nightowl&hide_border=true&layout=compact)  
 
 ---
 
