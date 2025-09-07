@@ -17,7 +17,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mostafa-khatab&theme=nightowl&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-khatab&theme=nightowl&hide_border=true&layout=compact)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-khatab&theme=rogue)  
 
 ---
 
@@ -61,6 +60,8 @@
 
 [![AtCoder](https://img.shields.io/badge/-AtCoder-1F8ACB?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/khattab)  
 [![Codeforces](https://img.shields.io/badge/-Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Khattaab)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)  
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/)  
 
 ---
 
